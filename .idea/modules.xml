@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/analisador_lexico.iml" filepath="$PROJECT_DIR$/analisador_lexico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainFile/mainFile.iml" filepath="$PROJECT_DIR$/mainFile/mainFile.iml" />
+    </modules>
+  </component>
+</project>
